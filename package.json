@@ -1,0 +1,15 @@
+{
+  "name": "huiswerk1",
+  "version": "1.0.0",
+  "description": "read XLSX file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "annemarie",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^0.2.6",
+    "express": "^4.13.4"
+  }
+}
